@@ -1,4 +1,4 @@
-use "/Users/eoalejandro/Desktop/ecoproduce.dta"
+use "~/ecoproduce.dta"
 
 browse
 describe
