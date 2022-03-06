@@ -1,4 +1,4 @@
-2022 Applied Econometrics
+2021 Applied Econometrics
 
 The .do file is a demonstration of a script I drafted for a final project in the Fall 2021 semester course in my Applied Economics program at the University of Illinois at Chicago.  The objective was to use the data found in ecoproduce.dta to study the price elasticity of demand for regular and organic apples.  
 
